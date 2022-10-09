@@ -35,15 +35,15 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
-    - title: Digital Music Observatory  ☕️
-      content: 'Our openmuse'
+        media: slides/tour/reprex-background.web
+    - title: Digital Music Observatory  🎶
+      content: 'Our OpenMuse project with distinguished partners will develop the Digital Music Observatory into a European Music Observatory with the support of the European Union'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: slides/tour/reprex-background.web
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
