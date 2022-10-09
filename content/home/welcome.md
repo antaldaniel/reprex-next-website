@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The `Reprex` is a Netherlands-based data science startup founded in 2020. We help to decrease the inequalities caused by big data and AI, and we thrive to make an impact on the UN SDG agenda.
