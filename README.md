@@ -1,48 +1,51 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+[![dataobservatory](https://img.shields.io/badge/ecosystem-dataobservatory.eu-3EA135.svg)](https://dataobservatory.eu/)
+[![dataobservatory on
+Github](https://img.shields.io/badge/github-dataobservatory.eu-6e5494.svg)](https://github.com/dataobservatory-eu/)
+[![R package
+iotables](https://img.shields.io/badge/R-iotables-4EC0E4.svg)](https://iotables.dataobservatory.eu)
+[![R package
+retroharmonize](https://img.shields.io/badge/R-retroharmonize-007CBB.svg)](https://iotables.dataobservatory.eu)
+[![R package
+regions](https://img.shields.io/badge/R-regions-00843A.svg)](https://regions.dataobservatory.eu)
+[![R package
+dataset](https://img.shields.io/badge/R-dataset-E4007F.svg)](https://dataset.dataobservatory.eu)
+[![R package
+spotifyr](https://img.shields.io/badge/R-spotifyr-1db954.svg)](https://www.rcharlie.com/spotifyr)
+[![R package
+statcodelists](https://img.shields.io/badge/R-statcodelists-lightgrey.svg)](https://statcodelists.dataobservatory.eu)
+[![Contributor
+Covenant](https://img.shields.io/badge/ethics-Contributor%20Covenant-680171.svg)](https://dataobservatory.eu/)
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+# Welcome to the Development Version of the Reprex Website 👋
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+You can watch the website on [reprex-next.netlify.app/](https://reprex-next.netlify.app/). The active website can be seen on [reprex.nl](https://reprex.nl).
+
+🙋‍♀️ Creating an ecosystem of open data and open knowledge sharing in R, hugo, and open science repositories.
+
+🌈 Contribution guidelines - you must abide by the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) Code of Conduct.
+
+This is the repository of the website of [Reprex](https://reprex.nl/), a Netherlands-based reproducible research startup.  We created this website, along with many others, using an open source Hugo template. And we create many [open-source software solutions](https://reprex.nl/software/) ourselves.
+
+Our work relies on commissioned work, grants, sponsorship, and the same goes to our friends at Wowchemy.  When you use our free products, please give us proper attribution, and if you can, contribute with work or money to keep our products going. 
+
+## [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+
+The Reprex website is built with blending the Hugo **Academic Resumé Template** and the **Research Group** templates. Wowchemy's hugo templates empower you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
 ️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
-
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
-
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
-
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://wowchemy.com/creators/).
-
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
 
 - 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
 - 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
 
 ## We ask you, humbly, to support this open source movement
 
+Reprex builds open source products, and our friends at Wowchemy do so, too.  You can use Reprex's website, or our observatory websites as a template based on their work.  But we have both worked a lot with it, and therefore, if you use the Wowchemy template, we would like to emphasises the request of the Wowchemy team:
+
 Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way. [❤️ Click here to become a Wowchemy GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
 
-## Demo credits
 
-Please replace the demo images with your own.
-
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
