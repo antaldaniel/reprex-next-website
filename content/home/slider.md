@@ -29,13 +29,18 @@ content:
         text: Read More
         url: ../post/2022-09-13-the-hague-innovators-award/
     - title: 👋 Welcome to Reprex
-      content: Take a look at what we're working on...
+      content: Take a look at what we're working on... </br></br></br></br></br></br></br></br>
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: slides/tour/reprex-background.web
+        media: slides/tour/reprex-background.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: Read More
+        url: ../post/2022-09-13-the-hague-innovators-award/
     - title: Digital Music Observatory  🎶
       content: 'Our OpenMuse project with distinguished partners will develop the Digital Music Observatory into a European Music Observatory with the support of the European Union'
       align: left
@@ -43,7 +48,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: slides/tour/reprex-background.web
+        media: slides/tour/reprex-background.webp
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
