@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: We Are Finalists 🚀 
+    - title: 🚀  We Are Finalists!
       content: 'Vote for us in The Hague Innovators Award 2022'
       align: left
       background:
@@ -23,6 +23,11 @@ content:
         color: '#555'
         brightness: 0.5
         media: contact.jpg
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: Read More
+        url: ../post/2022-09-13-the-hague-innovators-award/
     - title: 👋 Welcome to Reprex
       content: Take a look at what we're working on...
       align: center
@@ -40,12 +45,12 @@ content:
         brightness: 0.7
         media: contact.jpg
       link:
-        icon: globe
+        icon: fa-solid fa-right-to-bracket
         icon_pack: fas
         text: Check Out Our Observatories!
         url: ../#observatories
     - title: Learn R With Our Team
-      content: 'Participating in open source is often a highly collaborative experience. We’re encouraged to create in public view, and we’re incentivized to welcome contributions of all kinds from people around the world. This makes the practice of open source as much social as it is technical.'
+      content: 'Participating in open source is often a highly collaborative experience. We’re encouraged to create in public view, and we’re incentivized to welcome contributions of all kinds from people around the world. This makes the practice of open source as much social as it is technical. [&#9755; slides](http://localhost:4321/slides/learnr-with-reprex)'
       align: right
       background:
         position: center
@@ -53,8 +58,8 @@ content:
         brightness: 0.5
         media: welcome.jpg
       link:
-        icon: book-open
+        icon: fa-solid fa-right-to-bracket
         icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        text: Slides
+        url: /slides/learnr-with-reprex)
 ---

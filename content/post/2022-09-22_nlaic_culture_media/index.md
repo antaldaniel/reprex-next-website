@@ -38,7 +38,6 @@ Reprex presented its [Digital Music Observatory](https://music.dataobservatory.e
 
 <td style="text-align: center;">{{< figure src="slides/NLAIC_20220922/big_data_for_all_observatories.png" caption="We have reviewed more than 80 data observatories in the world, and we are building five modern ones." numbered="false" >}}</td>
 
-
 It was particularly important for us to get away from the Hague, and meet organizations like [DEN](https://www.den.nl/over-ons/english) and the [KB](https://www.kb.nl/) to find out how our ambitious plans could connect to their excellent work. Reprex is a finalist in the [Hague Innovators Challenge 2022](/talk/impactcity-startup-support-xl/), and we would like to bring at least one global observatory, the planned European Music Observatory, into our beautiful and smart city. While knowledge graphs are virtual and live in the web 3.0, the Dutch AI Coalition and the country's future competitiveness need to ensure that essential knowledge graphs will be managed by the ecosystem of Netherlands-based researchers, institutions, and startups. The ethical consciousness shown by the members of our Culture AI Lab shows that it is probably the best for future human generations globally, too.
 
 
