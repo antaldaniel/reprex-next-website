@@ -1,6 +1,5 @@
 # IDEs
 .idea/
-
 # Hugo
 /resources/
 public/
@@ -8,3 +7,5 @@ assets/jsconfig.json
 .Rproj.user
 .hugo_build.lock
 go.sum
+.Rhistory
+.RData

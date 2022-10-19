@@ -11,36 +11,50 @@ design:
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
-  interval: 2200
+  interval: 20000
 
 content:
   slides:
-    - title: 🚀  We Are Finalists!
-      content: 'Vote for us in The Hague Innovators Award 2022'
+    - title: We Are Finalists!
+      content: 'Vote for us in The Hague Innovators Award 2022</br>
+                Details soon.'
       align: left
       background:
         position: center
         color: '#555'
-        brightness: 0.5
-        media: slides/tour/hague_innovators_award_2022.webp
+        brightness: 0.3
+        media: slides/tour/DAntal_ImpacCity_PAARD_2_20221028_4x6.webp
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
-        text: Read More
+        text: Vote
         url: ../post/2022-09-13-the-hague-innovators-award/
-    - title: 👋 Welcome to Reprex
-      content: Take a look at what we're working on... </br></br></br></br></br></br></br></br>
-      align: center
+    - title: 
+      content:  </br></br></br></br></br></br></br></br></br></br></br></br>
+      align: left
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
-        media: slides/tour/reprex-background.webp
+        media: slides/tour/big_data_creates_inequalities_centered.webp
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
         text: Read More
         url: ../post/2022-09-13-the-hague-innovators-award/
+    - title: Try Our Software
+      content: </br></br></br></br></br></br></br></br>
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: slides/tour/black_reprex_r_packages.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: Releases
+        url: ../#releases
     - title: Digital Music Observatory  🎶
       content: 'Our OpenMuse project with distinguished partners will develop the Digital Music Observatory into a European Music Observatory with the support of the European Union'
       align: left
@@ -96,3 +110,19 @@ content:
         text: Slides
         url: /slides/learnr-with-reprex)
 ---
+
+<!---
+    - title: 🚀  We Are Finalists!
+      content: 'Vote for us in The Hague Innovators Award 2022'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.5
+        media: slides/tour/hague_innovators_award_2022.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: Read More
+        url: ../post/2022-09-13-the-hague-innovators-award/
+--->
