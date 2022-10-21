@@ -55,32 +55,6 @@ content:
         icon_pack: fas
         text: Releases
         url: ../#releases
-    - title: Digital Music Observatory  🎶
-      content: 'Our OpenMuse project with distinguished partners will develop the Digital Music Observatory into a European Music Observatory with the support of the European Union'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: slides/tour/reprex-background.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: Check Out Our Observatories!
-        url: ../#observatories
-    - title: Looking for partners
-      content: ''
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: slides/NLAIC_20220922/big_data_for_all_observatories.png
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: Check Out Our Observatories!
-        url: ../#observatories  
     - title: Looking for partners
       content: 'We are looking for partners within the Dutch AI Coalition Culture and Media Working Group and similar organizations to integrate our data observatories into global knowledge graphs and to use them deploy trustworthy AI.
 &#9755; [blogspot](/post/2022-09-22_nlaic_culture_media/) 	
@@ -125,4 +99,30 @@ content:
         icon_pack: fas
         text: Read More
         url: ../post/2022-09-13-the-hague-innovators-award/
+    - title: Digital Music Observatory  🎶
+      content: 'Our OpenMuse project with distinguished partners will develop the Digital Music Observatory into a European Music Observatory with the support of the European Union'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: slides/tour/reprex-background.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: Check Out Our Observatories!
+        url: ../#observatories
+    - title: Looking for partners
+      content: ''
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: slides/NLAIC_20220922/big_data_for_all_observatories.png
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: Check Out Our Observatories!
+        url: ../#observatories  
 --->
