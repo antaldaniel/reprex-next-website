@@ -97,7 +97,7 @@ content:
         text: Check Out Our Observatories!
         url: ../#observatories  
     - title: Learn R With Our Team
-      content: 'Participating in open source is often a highly collaborative experience. We’re encouraged to create in public view, and we’re incentivized to welcome contributions of all kinds from people around the world. This makes the practice of open source as much social as it is technical. [&#9755; slides](http://localhost:4321/slides/learnr-with-reprex)'
+      content: 'Participating in open source is often a highly collaborative experience. We’re encouraged to create in public view, and we’re incentivize to welcome contributions of all kinds from people around the world. This makes the practice of open source as much social as it is technical. [&#9755; slides](http://localhost:4321/slides/learnr-with-reprex)'
       align: right
       background:
         position: center
